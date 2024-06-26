@@ -6,8 +6,8 @@
 using namespace std;
 
 // Definición de constantes para tamaños máximos
-const int MAX_USUARIOS = 100;
-const int MAX_LIBROS = 100;
+const int MAX_USUARIOS = 300;
+const int MAX_LIBROS = 300;
 
 // Definición de la estructura para usuarios
 struct Usuario {
