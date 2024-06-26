@@ -1,2 +1,20 @@
-nombre,apellido,cedula,usuario,clave,estatus,rol
-Mario,Bros,31924321,supermario,yahoo,activa,admin
+nombre   ,apellido   ,cedula   ,usuario      ,clave                 ,estatus    ,rol
+Mario    ,Bros       ,31924321 ,supermario   ,yahoo                 ,activo     ,admin
+Juan     ,Sheldon    ,30222333 ,elgenio      ,40223                 ,suspendido ,cliente
+Luis     ,Blanco     ,34300267 ,negro        ,2045kl                ,activo     ,cliente
+Jose     ,Gattos     ,31800347 ,metralleta   ,22klnfg               ,activo     ,empleado
+Samir    ,Rojas      ,20569906 ,gocho        ,programacionmequedo:( ,activo     ,empleado
+Sofia    ,Farias     ,34326700 ,arepa        ,234kl                 ,activo     ,empleado
+Yonaikel ,Jheferson  ,29345601 ,malandro     ,23opil                ,activo     ,cliente
+Maria    ,Estrella   ,38245765 ,sister       ,hfkksdka              ,suspendido ,cliente
+Ignacio  ,Balza      ,27907555 ,hijo         ,dg6478                ,activo     ,empleado
+Andres   ,bello      ,34380111 ,xD           ,23daswe               ,activo     ,cliente
+Santiago ,Vivas      ,28456000 ,Lupa         ,wasd23                ,activo     ,cliente
+Arianna  ,Sofia      ,34908657 ,blanco       ,34590juk              ,suspendido ,empleado
+Daniel   ,Carrizo    ,28345098 ,profesor     ,educa132              ,activo     ,cliente
+Diego    ,Alvaro     ,25678097 ,educador     ,23fkljukl             ,suspendido ,cliente
+David    ,Aponte     ,23789068 ,nigga        ,27890465              ,activo     ,empleado
+Mariana  ,Cielos     ,24567890 ,programadora ,hhadhh                ,activo     ,empleado
+Angel    ,Villalobos ,29560471 ,proplayer    ,45hkjlnm              ,suspedido  ,cliente
+Luis     ,Avila      ,36908756 ,waths        ,38jjkfld              ,activo     ,cliente
+Luisa    ,Diaz       ,23785782 ,okey         ,0000klj               ,activo     ,empleado
